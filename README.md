@@ -1,5 +1,5 @@
 ### Hi there 👋 
-## Im Alan Vinzon,  Web Developer, Student of Elechtronic Ingenieering, and passionate Gamer.
+# Im Alan Vinzon,  Web Developer, Student of Elechtronic Ingenieering, and passionate Gamer.
 
 
 
