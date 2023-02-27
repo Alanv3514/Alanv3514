@@ -1,13 +1,18 @@
 ### Hi there 👋 
-##Im Alan Vinzon,  Web Developer, Student of Elechtronic Ingenieering, and passionate Gamer.
+## Im Alan Vinzon,  Web Developer, Student of Elechtronic Ingenieering, and passionate Gamer.
 
 
+
+- 🌱 I’m currently learning :
+    html
+    css (bootstrap)
+    javascript
 <!--
 **Alanv3514/Alanv3514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-
+- 💼 I’m working at :
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
