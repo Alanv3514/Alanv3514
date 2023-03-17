@@ -1,7 +1,7 @@
 # Hi there 👋 
 #### Im Alan Vinzon,  Web Developer, Student of Elechtronic Ingenieering, and passionate Gamer.
 
-- 🔭 I’m currently working on [Amazing Events Web](https://github.com/Alanv3514/Amazing-Events-Web)
+- 🔭 I’m currently working on [Amazing Events Web](https://github.com/Alanv3514/Amazing-Events-Web) and trying it like a spa with vue.js
 
 - 🌱 I’m currently learning **html, css, bootstrap, javascript**
     
