@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Amazing Events Web](https://github.com/Alanv3514/Amazing-Events-Web) and trying it like a spa with vue.js
 
-- 🌱 I’m currently learning **html, css, bootstrap, javascript**
+- 🌱 I’m currently practicing **vue.js + pinia**
     
 
 <h3 align="left">Languages and Tools:</h3>
