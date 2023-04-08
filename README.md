@@ -1,9 +1,9 @@
 # Hi there 👋 
 #### Im Alan Vinzon,  Web Developer, Student of Elechtronic Ingenieering, and passionate Gamer.
 
-- 🔭 I’m currently working on [Amazing Events Web](https://github.com/Alanv3514/Amazing-Events-Web) and trying it like a spa with vue.js
+- 🔭 I’m currently working on my portfolio 
 
-- 🌱 I’m currently practicing **vue.js + pinia**
+- 🌱 I’m currently reading about other technologies that interest me
     
 
 <h3 align="left">Languages and Tools:</h3>
