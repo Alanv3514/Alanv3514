@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my portfolio 
 
-- 🌱 I’m currently study some backend tecnologies like java, laravel, postgresql
+- 🌱 I’m currently study some backend tecnologies like java, react, postgresql
     
 
 <h3 align="left">Languages and Tools:</h3>
