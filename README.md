@@ -1,9 +1,9 @@
 # Hi there 👋 
 #### Im Alan Vinzon,  Web Developer, Student of Elechtronic Ingenieering, and passionate Gamer.
 
-- 🔭 I’m currently working on my portfolio 
+- 🔭 I’m currently working on private projects for CAJAJPER (Caja de Jubilaciones de la Provincia de Entre Rios). 
 
-- 🌱 I’m currently study some backend tecnologies like java, react, postgresql
+- 🌱 I’m specializing in React with Material UI and learning DevOps techniques on Linux.
     
 
 <h3 align="left">Languages and Tools:</h3>
