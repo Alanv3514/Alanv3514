@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on private projects for CAJAJPER (Caja de Jubilaciones de la Provincia de Entre Rios). 
 
-- 🌱 I’m specializing in React with Material UI and learning DevOps techniques on Linux.
+- 🌱 I’m learning DevOps techniques on Linux.
     
 
 <h3 align="left">Languages and Tools:</h3>
